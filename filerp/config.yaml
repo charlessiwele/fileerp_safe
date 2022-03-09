@@ -1,0 +1,25 @@
+invoices_items_per_page: 15
+quotation_items_per_page: 15
+
+bank_details:
+    bank_name: XXXXXXXXX
+    account_holder: C Siwele
+    account_no: 1234567890
+    account_type: Business cheque/current
+
+email_smtp_server: mail.xxxxxxxxxxxxxxxx.co.za
+sender_email: test@xxxxxxxxxxxxxxxx.co.za
+sender_email_password: xxxxxxxxxxxxxxxx
+bcc_sender_email: xxxxxxx@gmail.com
+email_retries_count: 4
+
+shop_host_url: https://www.xxxxxxxxxxxx.com
+woo_commerce_consumer_key: ck_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+woo_commerce_consumer_secret: cs_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+tmdb_api_key: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+tmdb_access_token: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+news_api_key: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+server_ip_address: 127.0.0.1
